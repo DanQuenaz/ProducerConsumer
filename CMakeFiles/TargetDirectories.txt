@@ -1,0 +1,3 @@
+/home/anchor/Trab2_SO/CMakeFiles/rebuild_cache.dir
+/home/anchor/Trab2_SO/CMakeFiles/edit_cache.dir
+/home/anchor/Trab2_SO/CMakeFiles/ProdutorConsumidor.dir

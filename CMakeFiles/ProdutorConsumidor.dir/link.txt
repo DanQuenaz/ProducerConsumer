@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/ProdutorConsumidor.dir/src/main.cpp.o  -o ProdutorConsumidor -rdynamic -pthread 

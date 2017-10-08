@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anchor/Trab2_SO/src/main.cpp
+iostream
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+cstring
+-
+pthread.h
+-
+
